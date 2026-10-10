@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Imported Parts") (type "KiCad") (uri "C:/Users/Kitulik/Downloads/Week 1 Care Package/Imported Parts.pretty") (options "") (descr ""))
+	(lib (name "graphics") (type "KiCad") (uri "C:/Users/Kitulik/Documents/kicad_libraries/graphics") (options "") (descr ""))
+)
