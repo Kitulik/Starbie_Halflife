@@ -1,2 +1,4 @@
 PCB/.history/
 *.kicad_prl
+PCB/production/
+!PCB/production/starbie-gerbers.zip
