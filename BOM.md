@@ -20,7 +20,7 @@
 | [DHT11](https://dratek.cz/arduino-platforma/829-dht11-teplomer-a-vlhkomer-digitalni.html?_gl=1*11brxpz*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw56zWBhB0EiwAdPOQOT_mbISPVsIwTXzKToNduor4y-mw4ogGhvnGbHNMvn3xt-TClVQtqhoCk6YQAvD_BwE&gbraid=0AAAAACVG_WchOGktc85mjaBmIyEbIj2Qr) | temperature | 1 | $3.86 | $3.86 | [Dratek](https://dratek.cz/arduino-platforma/829-dht11-teplomer-a-vlhkomer-digitalni.html?_gl=1*11brxpz*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw56zWBhB0EiwAdPOQOT_mbISPVsIwTXzKToNduor4y-mw4ogGhvnGbHNMvn3xt-TClVQtqhoCk6YQAvD_BwE&gbraid=0AAAAACVG_WchOGktc85mjaBmIyEbIj2Qr) |
 | [XIAO-ESP32-C3-SMD](https://rpishop.cz/xiao/5607-seeed-studio-xiao-esp32c3.html) | Brain | 1 | $10.98 | $10.98 | [RPishop](https://rpishop.cz/xiao/5607-seeed-studio-xiao-esp32c3.html) |
 | **Parts subtotal** | — | — | — | **$24.13** | — |
-| **Tax & shipping** | — | — | — | **$10.00** | — |
-| **Total** | — | — | — | **$34.13** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$24.13** | — |
 
-**$4.13 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$5.87 left of the tier's funding.
