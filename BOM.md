@@ -22,7 +22,7 @@
 | [PCB](https://jlcpcb.com/) | main thing | 1 | $2.00 | $2.00 | [JLPCB](https://jlcpcb.com/) |
 | [battery](https://dratek.cz/arduino-platforma/179441-lipol-baterie-602158-750mah-3-7v.html?_gl=1*qszez3*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw56zWBhB0EiwAdPOQOe-MI36dPpg-0HKQ_6zuDjAabX0RfzMmsn6jA3SDs_dPqGGYjruDqRoCmsoQAvD_BwE&gbraid=0AAAAACVG_WdF2aTXNcor1d2sjzeP_3zSW) | Power source | 1 | $4.37 | $4.37 | [Dratek](https://dratek.cz/arduino-platforma/179441-lipol-baterie-602158-750mah-3-7v.html?_gl=1*qszez3*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw56zWBhB0EiwAdPOQOe-MI36dPpg-0HKQ_6zuDjAabX0RfzMmsn6jA3SDs_dPqGGYjruDqRoCmsoQAvD_BwE&gbraid=0AAAAACVG_WdF2aTXNcor1d2sjzeP_3zSW) |
 | **Parts subtotal** | — | — | — | **$27.05** | — |
-| **Tax & shipping** | — | — | — | **$2.95** | — |
+| **Tax & shipping** | — | — | — | **$2.95**(not everything eta. $18) | — |
 | **Total** | — | — | — | **$30.00** | — |
 
 $0.00 left of the tier's funding.
