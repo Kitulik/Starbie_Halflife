@@ -19,9 +19,8 @@
 | [MX Switches](https://allegro.cz/produkt/mechanicka-klavesnice-rk-blue-switch-1-ks-8b65fe10-3046-49bd-bed2-cb2ec30ba30c?offerId=16552527116&utm_feed=712e6653-4749-4512-b084-b6e297fc9e0b&utm_source=google&utm_medium=cpc&utm_campaign=CZ%3EElectro%3EComputers%3E3P%3EPLA&ev_adgr=Ad%20group%201&ev_campaign_id=22848223665&gad_source=1&gad_campaignid=22848223665&gbraid=0AAAAApZ4Y9RuMqluzlLLeYDDV6W1T9Vx6&gclid=CjwKCAjw56zWBhB0EiwAdPOQOT4DloF-pnOwhoH2j3lgV1Q34sFHS_LS2BjxQi9sOJy-A1KU9S-nwBoCaFUQAvD_BwE) | Button | 2 | $0.69 | $1.38 | [Allegro](https://allegro.cz/produkt/mechanicka-klavesnice-rk-blue-switch-1-ks-8b65fe10-3046-49bd-bed2-cb2ec30ba30c?offerId=16552527116&utm_feed=712e6653-4749-4512-b084-b6e297fc9e0b&utm_source=google&utm_medium=cpc&utm_campaign=CZ%3EElectro%3EComputers%3E3P%3EPLA&ev_adgr=Ad%20group%201&ev_campaign_id=22848223665&gad_source=1&gad_campaignid=22848223665&gbraid=0AAAAApZ4Y9RuMqluzlLLeYDDV6W1T9Vx6&gclid=CjwKCAjw56zWBhB0EiwAdPOQOT4DloF-pnOwhoH2j3lgV1Q34sFHS_LS2BjxQi9sOJy-A1KU9S-nwBoCaFUQAvD_BwE) |
 | [DHT11](https://dratek.cz/arduino-platforma/829-dht11-teplomer-a-vlhkomer-digitalni.html?_gl=1*11brxpz*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw56zWBhB0EiwAdPOQOT_mbISPVsIwTXzKToNduor4y-mw4ogGhvnGbHNMvn3xt-TClVQtqhoCk6YQAvD_BwE&gbraid=0AAAAACVG_WchOGktc85mjaBmIyEbIj2Qr) | temperature | 1 | $3.86 | $3.86 | [Dratek](https://dratek.cz/arduino-platforma/829-dht11-teplomer-a-vlhkomer-digitalni.html?_gl=1*11brxpz*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw56zWBhB0EiwAdPOQOT_mbISPVsIwTXzKToNduor4y-mw4ogGhvnGbHNMvn3xt-TClVQtqhoCk6YQAvD_BwE&gbraid=0AAAAACVG_WchOGktc85mjaBmIyEbIj2Qr) |
 | [XIAO-ESP32-C3-SMD](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Brain | 1 | $5.93 | $5.93 | [SeedStudio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
-| [PCB](https://jlcpcb.com/) | custom PCB | 1 | $10.00 | $10.00 | [JLPCB](https://jlcpcb.com/) |
-| **Parts subtotal** | — | — | — | **$30.10** | — |
+| **Parts subtotal** | — | — | — | **$20.10** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$30.10** | — |
+| **Total** | — | — | — | **$20.10** | — |
 
-**$0.10 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$9.90 left of the tier's funding.
