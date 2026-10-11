@@ -20,7 +20,7 @@
 | [DHT11](https://www.amazon.com/dp/B0BLG7R99R) | temperature | 1 | $3.33 | $3.33 | [Amazon](https://www.amazon.com/dp/B0BLG7R99R) |
 | [XIAO-ESP32-C3-SMD](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Brain | 1 | $5.00 | $5.00 | [seeedstudio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
 | **Parts subtotal** | — | — | — | **$13.53** | — |
-| **Tax & shipping** | — | — | — | **$1000.00** | — |
-| **Total** | — | — | — | **$1013.53** | — |
+| **Tax & shipping** | — | — | — | **$10.00** | — |
+| **Total** | — | — | — | **$23.53** | — |
 
-**$983.53 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$6.47 left of the tier's funding.
