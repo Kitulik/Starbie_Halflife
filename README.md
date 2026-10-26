@@ -15,6 +15,17 @@ What started as a tamagochi ended as a small TCG helper (with tamagochi of cours
 - Simple tamagochi
 - TCG card counter (Soon)
 
+## How it works
+
+Tamagochi is shown on small OLED display. Then it is routed via PCB to the micronontroler where all the magic happens. You can controll Starbie via buttons and tilting it around. (more in Controlls section)
+The 8 pin is for Gyroscope connection that senses the device's orientation and movement.<br>
+And the blue thingy is Enviromental sensor for sencing humidity, temperature, etc.<br>
+I added battery so it shouldn`t rely on external power.
+<br><br>
+Later there will be the TCG counter and to that you will be able to go in menu chose your game and dedicated counter will start. You will be able to controll it thanks to buttons.
+
+
+
 ## Controlls
 
 | Button | Function |
